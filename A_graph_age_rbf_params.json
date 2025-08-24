@@ -1,0 +1,8 @@
+{
+  "scaled_col": "AGEP_A_scaled",
+  "k": 30,
+  "sigma": 0.024691343307495117,
+  "dtype": "float32",
+  "mutual": false,
+  "similarity": "rbf_on_euclidean_age (pre-scaled)"
+}
