@@ -1,0 +1,12 @@
+{
+  "scaled_col": "AGEP_A_scaled",
+  "weight_col": "instance_weight",
+  "k": 30,
+  "sigma": 0.024691343307495117,
+  "alpha": 1.0,
+  "prune_threshold": 0.25,
+  "weight_transform": "logminmax",
+  "symmetrize": "mean",
+  "similarity": "rbf_on_euclidean_age",
+  "dtype": "float32"
+}
