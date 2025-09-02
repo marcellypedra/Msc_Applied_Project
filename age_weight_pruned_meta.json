@@ -1,0 +1,21 @@
+{
+  "graph_params": {
+    "scaled_col": "AGEP_A_scaled",
+    "weight_col": "instance_weight",
+    "k": 30,
+    "sigma": 0.024691343307495117,
+    "alpha": 1.0,
+    "prune_threshold": 0.25,
+    "weight_transform": "logminmax",
+    "symmetrize": "mean",
+    "similarity": "rbf_on_euclidean_age",
+    "dtype": "float32"
+  },
+  "graph_stats": {
+    "n_nodes": 29460,
+    "nnz_edges_final": 83806,
+    "n_components": 21638,
+    "gcc_frac_unweighted": 0.017651052274270197,
+    "gcc_frac_weighted": 0.018655760534075447
+  }
+}
