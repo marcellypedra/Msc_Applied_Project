@@ -172,6 +172,33 @@ HISPALLP_A = {
   99:" Don't Know ",
 }
 
+<<<<<<< HEAD
+=======
+EDUCP_A = {
+  1:"Grade 1-11",
+  2:"12th grade, no diploma",
+  3:"GED or equivalent",
+  4:"High School Graduate",
+  5:"Some college, no degree",
+  6:"Associate degree: occupational, technical, or vocational program",
+  7:"Associate degree: academic program",
+  8:"Bachelor's degree",
+  9:"Master's degree",
+  10:"Professional School or Doctoral degree",
+}
+
+MARSTAT_A = {
+  1:"Married, spouse is present",
+  2:"Married, spouse is not present",
+  3:"Married, spouse presence unknown",
+  4:"Widowed",
+  5:"Divorced",
+  6:"Separated",
+  7:"Never married",
+  8:"Living with a partner",
+}
+
+>>>>>>> 337a0e6 (make both repositories up-to-date)
 HISP_A = {
   1:"Yes  ",
   2:"No ",
@@ -408,4 +435,9 @@ YRSINUS_A = {
   4:"10 to less than 15 years  ",
   5:"15 years or more ",
   9:"Unknown ",
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> 337a0e6 (make both repositories up-to-date)
